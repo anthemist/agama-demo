@@ -1,1 +1,17 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "dsadsadsad",
+        "type": "community",
+        "author": "anthemist",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/anthemist/agama-demo",
+        "githubUri": "https://github.com/anthemist/agama-demo",
+        "license": "MIT",
+        "lastUpdated": "1693845745578",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": []
+    }
+}
