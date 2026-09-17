@@ -1,1 +1,18 @@
-{}
+{
+    "demo auth": {
+        "projectName": "demo auth",
+        "description": "Lorem ipsum dolor sit amet",
+        "type": "community",
+        "author": "anthemist",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/anthemist/agama-demo",
+        "githubUri": "https://github.com/anthemist/agama-demo",
+        "license": "Apache 2",
+        "lastUpdated": "1789627650894",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
