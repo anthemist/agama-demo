@@ -29,6 +29,9 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "org.gluu.agama.auth.main": {}
+        },
+        "name": "agama-auth"
     }
 }
